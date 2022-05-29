@@ -1,0 +1,1 @@
+Run 'sudo rm -rf /bin/eFlasher /usr/bin/eFlasher /etc/eFlasher' to Uninstall eFlasher from Root Directory
